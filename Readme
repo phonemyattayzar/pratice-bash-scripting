@@ -1,0 +1,12 @@
+# Practice Bash Scripting
+
+This repository contains my practice Bash scripts.  
+I’m using it to learn and improve my skills in Linux shell scripting.
+
+## Contents
+- `change-extension.sh` → Basic script for changing file extension in a directory
+
+## Purpose
+- Learn Bash fundamentals
+- Practice Linux command-line automation
+- Prepare for DevOps/SysAdmin real-world tasks
